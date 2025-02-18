@@ -151,7 +151,7 @@ languages are available are given in the keyword [LANGUAGES](keywords/LANGUAGES.
 ### Recommended order of the keywords
 Some keywords must be written before some other keywords e.g. [STUB](keywords/STUB.md) and
 [HEADING](keywords/HEADING.md) must precede [VALUES](keywords/VALUES.md) and [CODES](keywords/CODES.md). Here follows a list of
-recommended order for how keywords should be written I PX-files though
+recommended order for how keywords should be written in PX-files though
 applications should not depend on that this order is used.
 
 - [CHARSET](keywords/CHARSET.md)
